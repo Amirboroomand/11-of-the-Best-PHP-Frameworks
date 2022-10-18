@@ -11,3 +11,10 @@
 9. Slim
 10. PHPixie
 11. Fat-Free Framework
+
+
+# Why You Should Use PHP Frameworks
+
+A PHP framework provides the basic structure and components to build web applications.
+Moreover, it reuses code to avoid repetitive tasks.
+That said, there are a lot more benefits other than just speeding up the development process.
